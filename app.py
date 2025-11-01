@@ -1,11 +1,15 @@
 import streamlit as st
 import joblib
 import numpy as np
+import os
 
-# Load models and vectorizer
-tfidf = joblib.load("models/tfidf_vectorizer.joblib")
-label_encoder = joblib.load("models/label_encoder4.joblib")
-model = joblib.load("models/random_forest.joblib")  # you can change model here
+# ✅ Get base directory (project root)
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# ✅ Load models safely from 'models' folder in the project root
+tfidf = joblib.load(os.path.join(BASE_DIR, "models", "tfidf_vectorizer.joblib"))
+label_encoder = joblib.load(os.path.join(BASE_DIR, "models", "label_encoder4.joblib"))
+model = joblib.load(os.path.join(BASE_DIR, "models", "random_forest.joblib")) # you can change model here
 
 # -------------------- Streamlit Page Config --------------------
 st.set_page_config(
@@ -105,4 +109,5 @@ symptoms and predict the most probable diseases using machine learning models.
 """)
 st.sidebar.markdown("---")
 st.sidebar.caption("Developed by **Aaman Inamdar**  | Streamlit + NLP + ML")
+
 
