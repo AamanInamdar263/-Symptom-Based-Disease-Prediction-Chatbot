@@ -1,0 +1,581 @@
+Symptoms,Disease
+sneezing cough headache,4
+sore throat dry cough chill headache fatigue,8
+wheezing cough chest tightness shortness breath,3
+fever runny nose cough fatigue,4
+fatigue headache runny nose sore throat fever cough,4
+frequent urination weight loss fatigue increased thirst blurred vision,5
+fatigue chest pain sweating,1
+fatigue weight loss blurred vision increased thirst frequent urination,5
+chest pain fatigue sweating shortness breath,1
+weight loss fatigue blurred vision increased thirst,5
+nausea vomiting light sensitivity headache,9
+headache runny nose sneezing cough fever,4
+fatigue blurred vision dizziness headache chest pain,7
+chest tightness cough shortness breath wheezing,3
+itchy eye runny nose watery eye sneezing nasal congestion,0
+headache vomiting nausea dizziness,9
+increased thirst weight loss fatigue blurred vision,5
+light sensitivity vomiting headache nausea dizziness,9
+vomiting dehydration nausea,6
+dizziness light sensitivity nausea vomiting,9
+nausea vomiting abdominal pain,6
+body ache headache fatigue chill dry cough,8
+headache nausea dizziness vomiting,9
+frequent urination blurred vision increased thirst weight loss fatigue,5
+headache fatigue fever runny nose sneezing cough,4
+fever fatigue sore throat cough headache,4
+watery eye sneezing nasal congestion itchy eye runny nose,0
+runny nose nasal congestion sneezing itchy eye watery eye,0
+nausea vomiting headache,9
+joint pain swelling reduced mobility,2
+blurred vision increased thirst frequent urination weight loss,5
+fever sore throat headache chill dry cough,8
+fever chill dry cough,8
+nausea dizziness headache vomiting light sensitivity,9
+nausea dehydration vomiting abdominal pain,6
+dizziness chest pain blurred vision fatigue headache,7
+nausea dizziness headache,9
+nausea vomiting diarrhea,6
+fever sore throat sneezing fatigue,4
+dizziness headache nausea,9
+nasal congestion itchy eye watery eye runny nose,0
+headache fever sore throat chill fatigue dry cough,8
+dry cough fatigue headache,8
+headache sore throat runny nose,4
+shortness breath sweating fatigue,1
+chest pain blurred vision dizziness fatigue headache,7
+sweating fatigue chest pain,1
+cough headache runny nose sneezing,4
+abdominal pain vomiting nausea dehydration,6
+headache nausea vomiting light sensitivity,9
+cough wheezing chest tightness,3
+shortness breath chest pain fatigue,1
+nausea headache light sensitivity dizziness,9
+sore throat body ache dry cough chill headache fever,8
+sweating shortness breath chest pain,1
+fatigue sore throat runny nose,4
+frequent urination blurred vision weight loss fatigue increased thirst,5
+nasal congestion sneezing runny nose,0
+dry cough sore throat headache fever chill body ache,8
+sore throat cough fatigue,4
+runny nose sneezing watery eye,0
+vomiting nausea dehydration diarrhea,6
+vomiting diarrhea abdominal pain dehydration,6
+fever cough headache sneezing fatigue,4
+fever cough fatigue sore throat sneezing runny nose,4
+nausea headache light sensitivity,9
+fever runny nose sore throat fatigue cough sneezing,4
+chest pain fatigue blurred vision headache,7
+headache nausea light sensitivity dizziness,9
+fatigue increased thirst weight loss,5
+wheezing cough chest tightness,3
+dizziness nausea vomiting light sensitivity,9
+sneezing sore throat fever headache,4
+fatigue sweating shortness breath,1
+blurred vision frequent urination fatigue weight loss,5
+dehydration abdominal pain nausea diarrhea vomiting,6
+fatigue sweating chest pain shortness breath,1
+body ache headache fever,8
+headache chest pain blurred vision fatigue,7
+runny nose watery eye sneezing itchy eye nasal congestion,0
+frequent urination blurred vision increased thirst,5
+increased thirst frequent urination weight loss blurred vision,5
+chest pain fatigue dizziness headache,7
+cough shortness breath chest tightness wheezing,3
+fever sore throat chill body ache headache dry cough,8
+dizziness chest pain blurred vision headache,7
+vomiting abdominal pain nausea,6
+dizziness fatigue blurred vision headache,7
+blurred vision chest pain headache fatigue dizziness,7
+headache sore throat fever fatigue sneezing cough,4
+dry cough headache fever,8
+stiffness joint pain swelling reduced mobility,2
+vomiting abdominal pain nausea diarrhea dehydration,6
+headache chill fatigue fever body ache dry cough,8
+abdominal pain vomiting diarrhea dehydration nausea,6
+headache fatigue blurred vision chest pain dizziness,7
+dizziness chest pain headache fatigue blurred vision,7
+cough sneezing fatigue,4
+chill fever sore throat dry cough headache,8
+chest pain blurred vision dizziness,7
+blurred vision frequent urination increased thirst fatigue weight loss,5
+headache sore throat sneezing runny nose fever cough,4
+watery eye runny nose itchy eye,0
+watery eye sneezing nasal congestion,0
+blurred vision weight loss fatigue frequent urination,5
+nasal congestion itchy eye runny nose,0
+vomiting nausea abdominal pain,6
+fatigue fever dry cough,8
+runny nose sneezing nasal congestion,0
+reduced mobility swelling stiffness joint pain,2
+blurred vision fatigue chest pain dizziness headache,7
+nasal congestion itchy eye sneezing runny nose watery eye,0
+nasal congestion sneezing itchy eye,0
+fatigue increased thirst blurred vision weight loss frequent urination,5
+chest pain headache fatigue blurred vision dizziness,7
+chill body ache dry cough fatigue sore throat headache,8
+sneezing cough runny nose headache sore throat fatigue,4
+chest pain sweating shortness breath,1
+dehydration vomiting diarrhea nausea abdominal pain,6
+light sensitivity dizziness vomiting nausea headache,9
+reduced mobility swelling stiffness,2
+diarrhea dehydration abdominal pain nausea,6
+fatigue shortness breath sweating chest pain,1
+cough fatigue sneezing sore throat fever runny nose,4
+sneezing sore throat fatigue cough headache fever,4
+vomiting nausea headache dizziness,9
+weight loss frequent urination fatigue blurred vision increased thirst,5
+abdominal pain vomiting dehydration nausea diarrhea,6
+fatigue increased thirst weight loss frequent urination blurred vision,5
+fever headache sneezing,4
+dizziness nausea headache vomiting,9
+fatigue frequent urination blurred vision weight loss,5
+dizziness vomiting nausea,9
+nasal congestion sneezing runny nose itchy eye watery eye,0
+stiffness joint pain reduced mobility swelling,2
+headache fatigue blurred vision,7
+blurred vision chest pain dizziness fatigue,7
+chest pain fatigue shortness breath sweating,1
+cough wheezing shortness breath chest tightness,3
+joint pain swelling reduced mobility stiffness,2
+chest tightness wheezing cough shortness breath,3
+sneezing itchy eye runny nose watery eye nasal congestion,0
+fatigue sweating shortness breath chest pain,1
+cough chest tightness wheezing shortness breath,3
+headache runny nose fever,4
+fatigue runny nose sore throat headache,4
+diarrhea abdominal pain vomiting dehydration,6
+sneezing fever cough runny nose sore throat headache,4
+headache blurred vision fatigue chest pain dizziness,7
+sore throat headache fever,8
+dizziness headache blurred vision,7
+stiffness reduced mobility joint pain,2
+runny nose fatigue sneezing fever headache,4
+headache fatigue runny nose fever sore throat,4
+headache vomiting light sensitivity dizziness,9
+fatigue weight loss increased thirst,5
+weight loss blurred vision frequent urination,5
+abdominal pain nausea vomiting dehydration diarrhea,6
+itchy eye sneezing watery eye runny nose,0
+frequent urination fatigue weight loss increased thirst,5
+weight loss blurred vision fatigue,5
+sneezing itchy eye runny nose,0
+joint pain stiffness swelling reduced mobility,2
+runny nose fever cough,4
+wheezing chest tightness shortness breath cough,3
+blurred vision fatigue weight loss,5
+fatigue blurred vision weight loss increased thirst,5
+fever dry cough headache fatigue sore throat,8
+dry cough sore throat body ache headache chill,8
+fatigue runny nose headache fever sneezing cough,4
+watery eye sneezing nasal congestion itchy eye,0
+fatigue body ache fever chill,8
+sneezing itchy eye runny nose nasal congestion,0
+sore throat headache fever dry cough fatigue chill,8
+frequent urination increased thirst fatigue,5
+headache fatigue body ache chill sore throat fever,8
+diarrhea nausea abdominal pain vomiting dehydration,6
+fever chill dry cough fatigue sore throat,8
+nausea light sensitivity dizziness vomiting headache,9
+light sensitivity headache vomiting nausea dizziness,9
+dizziness light sensitivity headache,9
+nasal congestion watery eye runny nose itchy eye sneezing,0
+swelling stiffness reduced mobility joint pain,2
+abdominal pain vomiting nausea,6
+body ache sore throat fever,8
+reduced mobility joint pain swelling stiffness,2
+sore throat fatigue runny nose headache fever sneezing,4
+chill dry cough sore throat headache body ache,8
+chest pain fatigue blurred vision,7
+increased thirst frequent urination fatigue blurred vision,5
+cough sore throat fever headache,4
+chest pain dizziness fatigue,7
+runny nose cough fever sore throat,4
+vomiting diarrhea abdominal pain nausea dehydration,6
+light sensitivity vomiting nausea headache dizziness,9
+chill fatigue headache fever body ache,8
+nausea abdominal pain vomiting diarrhea dehydration,6
+sore throat sneezing cough,4
+chest pain blurred vision fatigue headache dizziness,7
+increased thirst frequent urination blurred vision,5
+headache chest pain dizziness blurred vision fatigue,7
+increased thirst fatigue weight loss frequent urination blurred vision,5
+weight loss fatigue blurred vision,5
+watery eye sneezing runny nose itchy eye nasal congestion,0
+wheezing chest tightness shortness breath,3
+blurred vision weight loss increased thirst,5
+itchy eye runny nose nasal congestion watery eye sneezing,0
+dry cough sore throat fever,8
+light sensitivity dizziness vomiting,9
+fatigue sore throat fever headache dry cough body ache,8
+fatigue frequent urination blurred vision,5
+reduced mobility swelling joint pain,2
+fatigue increased thirst frequent urination blurred vision weight loss,5
+weight loss increased thirst blurred vision frequent urination,5
+vomiting light sensitivity nausea headache dizziness,9
+abdominal pain diarrhea dehydration,6
+frequent urination blurred vision weight loss increased thirst,5
+chest pain blurred vision dizziness headache,7
+fever fatigue headache,4
+diarrhea dehydration vomiting nausea abdominal pain,6
+headache dizziness fatigue,7
+shortness breath cough wheezing chest tightness,3
+headache dizziness light sensitivity,9
+abdominal pain vomiting diarrhea,6
+body ache sore throat headache,8
+dizziness blurred vision chest pain,7
+headache dizziness chest pain fatigue blurred vision,7
+headache chest pain blurred vision,7
+fever chill body ache headache sore throat,8
+dehydration diarrhea vomiting nausea abdominal pain,6
+cough fatigue headache,4
+shortness breath chest tightness cough,3
+headache light sensitivity vomiting nausea dizziness,9
+headache light sensitivity nausea,9
+dizziness blurred vision fatigue headache,7
+sweating chest pain shortness breath,1
+joint pain reduced mobility stiffness,2
+frequent urination blurred vision fatigue increased thirst,5
+blurred vision fatigue dizziness chest pain,7
+sweating fatigue shortness breath chest pain,1
+fatigue dizziness chest pain blurred vision,7
+sneezing fatigue headache cough runny nose,4
+increased thirst weight loss fatigue frequent urination,5
+chill dry cough sore throat,8
+weight loss fatigue increased thirst blurred vision frequent urination,5
+blurred vision increased thirst fatigue frequent urination weight loss,5
+joint pain swelling stiffness,2
+fever fatigue cough headache runny nose,4
+nausea light sensitivity headache,9
+sore throat headache fatigue,8
+runny nose sneezing cough,4
+light sensitivity nausea headache vomiting dizziness,9
+dizziness light sensitivity nausea,9
+cough sore throat sneezing fever runny nose headache,4
+frequent urination increased thirst fatigue weight loss blurred vision,5
+sneezing nasal congestion runny nose,0
+chest tightness wheezing shortness breath cough,3
+vomiting dizziness nausea headache,9
+dizziness blurred vision headache fatigue,7
+blurred vision frequent urination fatigue increased thirst weight loss,5
+abdominal pain nausea dehydration diarrhea,6
+dizziness chest pain blurred vision fatigue,7
+diarrhea nausea dehydration abdominal pain vomiting,6
+nausea vomiting dehydration,6
+fatigue body ache dry cough sore throat,8
+blurred vision increased thirst frequent urination,5
+diarrhea abdominal pain nausea vomiting,6
+nausea dehydration vomiting,6
+headache blurred vision chest pain dizziness,7
+shortness breath chest tightness wheezing,3
+shortness breath wheezing cough,3
+dizziness nausea light sensitivity headache vomiting,9
+dizziness vomiting light sensitivity headache nausea,9
+reduced mobility joint pain stiffness,2
+cough headache sore throat,4
+blurred vision dizziness fatigue,7
+joint pain stiffness reduced mobility,2
+sore throat headache chill,8
+headache chest pain dizziness fatigue blurred vision,7
+fatigue sore throat sneezing runny nose headache,4
+fatigue chest pain sweating shortness breath,1
+cough shortness breath wheezing,3
+diarrhea vomiting nausea dehydration,6
+blurred vision chest pain dizziness fatigue headache,7
+body ache headache dry cough fatigue,8
+sneezing sore throat fever headache runny nose fatigue,4
+fatigue sore throat headache runny nose,4
+blurred vision fatigue frequent urination weight loss,5
+frequent urination fatigue weight loss increased thirst blurred vision,5
+nausea dehydration abdominal pain diarrhea vomiting,6
+increased thirst blurred vision frequent urination weight loss,5
+shortness breath fatigue sweating chest pain,1
+dehydration abdominal pain nausea diarrhea,6
+itchy eye watery eye runny nose sneezing,0
+shortness breath sweating chest pain fatigue,1
+nausea diarrhea abdominal pain,6
+chest pain blurred vision fatigue dizziness,7
+vomiting headache light sensitivity nausea,9
+vomiting nausea dehydration,6
+dehydration nausea vomiting,6
+diarrhea abdominal pain dehydration,6
+frequent urination blurred vision weight loss fatigue,5
+fatigue dizziness headache chest pain,7
+headache dizziness chest pain blurred vision,7
+chest pain sweating fatigue,1
+shortness breath wheezing chest tightness,3
+fatigue sneezing runny nose fever cough headache,4
+fatigue headache dizziness chest pain,7
+sneezing cough headache runny nose,4
+headache nausea light sensitivity vomiting dizziness,9
+fatigue frequent urination weight loss blurred vision,5
+itchy eye watery eye runny nose sneezing nasal congestion,0
+runny nose headache fatigue fever,4
+cough runny nose headache sore throat fever fatigue,4
+frequent urination weight loss blurred vision,5
+shortness breath chest tightness wheezing cough,3
+fatigue increased thirst frequent urination,5
+watery eye runny nose sneezing nasal congestion itchy eye,0
+chest tightness cough wheezing shortness breath,3
+sweating shortness breath chest pain fatigue,1
+fever chill dry cough fatigue body ache sore throat,8
+dry cough body ache fever headache,8
+chest tightness shortness breath cough,3
+blurred vision headache chest pain dizziness fatigue,7
+watery eye nasal congestion runny nose itchy eye sneezing,0
+runny nose sore throat headache,4
+dizziness chest pain blurred vision,7
+weight loss increased thirst frequent urination fatigue,5
+vomiting abdominal pain diarrhea,6
+dehydration vomiting abdominal pain,6
+body ache fever fatigue chill headache,8
+chill body ache headache fever fatigue dry cough,8
+sore throat chill dry cough fatigue fever,8
+sore throat runny nose cough,4
+fever dry cough body ache,8
+headache sore throat sneezing,4
+dehydration abdominal pain vomiting nausea diarrhea,6
+runny nose fever sore throat,4
+chest pain shortness breath fatigue sweating,1
+reduced mobility joint pain swelling,2
+dizziness vomiting headache nausea light sensitivity,9
+shortness breath cough chest tightness wheezing,3
+dizziness light sensitivity headache vomiting nausea,9
+nausea abdominal pain dehydration diarrhea vomiting,6
+headache nausea dizziness vomiting light sensitivity,9
+fever headache sore throat sneezing cough,4
+dehydration diarrhea vomiting nausea,6
+headache fatigue chest pain,7
+runny nose sneezing cough fatigue,4
+runny nose watery eye sneezing itchy eye,0
+body ache fever fatigue chill dry cough sore throat,8
+runny nose sneezing itchy eye nasal congestion,0
+runny nose itchy eye watery eye nasal congestion sneezing,0
+frequent urination increased thirst weight loss fatigue,5
+weight loss blurred vision increased thirst fatigue frequent urination,5
+shortness breath wheezing cough chest tightness,3
+diarrhea abdominal pain nausea,6
+cough wheezing shortness breath,3
+body ache sore throat dry cough fever,8
+dizziness chest pain fatigue headache,7
+nausea abdominal pain vomiting,6
+nausea dehydration abdominal pain vomiting diarrhea,6
+body ache dry cough fatigue fever sore throat,8
+runny nose nasal congestion sneezing itchy eye,0
+joint pain reduced mobility swelling stiffness,2
+shortness breath chest pain sweating,1
+headache fever fatigue runny nose,4
+fever dry cough body ache sore throat,8
+chest tightness wheezing cough,3
+weight loss blurred vision frequent urination increased thirst,5
+vomiting light sensitivity headache nausea,9
+fatigue chest pain headache,7
+dehydration diarrhea nausea abdominal pain vomiting,6
+cough runny nose headache sneezing sore throat,4
+vomiting diarrhea dehydration,6
+nausea light sensitivity dizziness,9
+headache light sensitivity dizziness,9
+itchy eye runny nose sneezing nasal congestion,0
+joint pain reduced mobility stiffness swelling,2
+runny nose watery eye sneezing nasal congestion,0
+nausea light sensitivity vomiting dizziness headache,9
+nausea headache dizziness,9
+diarrhea abdominal pain vomiting nausea dehydration,6
+frequent urination weight loss increased thirst,5
+fatigue blurred vision dizziness chest pain headache,7
+headache fever body ache sore throat chill,8
+headache nausea vomiting dizziness light sensitivity,9
+runny nose headache fatigue fever sore throat,4
+blurred vision dizziness chest pain headache,7
+chest tightness shortness breath cough wheezing,3
+reduced mobility stiffness swelling joint pain,2
+dry cough sore throat body ache fatigue chill,8
+chest pain sweating fatigue shortness breath,1
+fatigue sweating chest pain,1
+blurred vision chest pain fatigue dizziness headache,7
+cough headache fatigue runny nose fever sneezing,4
+itchy eye watery eye nasal congestion,0
+light sensitivity nausea headache dizziness,9
+nasal congestion itchy eye runny nose sneezing watery eye,0
+weight loss fatigue frequent urination increased thirst,5
+fatigue dry cough chill fever headache sore throat,8
+sweating chest pain shortness breath fatigue,1
+sore throat runny nose fever headache fatigue cough,4
+weight loss fatigue frequent urination blurred vision increased thirst,5
+runny nose nasal congestion itchy eye sneezing watery eye,0
+cough fever headache fatigue,4
+blurred vision dizziness chest pain,7
+swelling reduced mobility stiffness joint pain,2
+fatigue headache fever sore throat sneezing,4
+watery eye itchy eye runny nose nasal congestion,0
+dizziness headache light sensitivity nausea vomiting,9
+sore throat runny nose cough sneezing headache fever,4
+frequent urination blurred vision fatigue weight loss increased thirst,5
+weight loss frequent urination fatigue increased thirst blurred vision,5
+fatigue fever dry cough chill body ache headache,8
+vomiting dehydration diarrhea,6
+fatigue headache cough runny nose,4
+headache dizziness chest pain fatigue,7
+fever body ache headache dry cough,8
+sneezing itchy eye nasal congestion runny nose,0
+itchy eye nasal congestion runny nose sneezing watery eye,0
+fever sore throat headache dry cough,8
+diarrhea nausea dehydration,6
+headache fatigue sore throat sneezing,4
+headache chest pain fatigue dizziness blurred vision,7
+light sensitivity nausea vomiting,9
+dehydration abdominal pain nausea,6
+dizziness blurred vision chest pain headache fatigue,7
+fever sore throat headache fatigue,4
+chill body ache fatigue fever,8
+sneezing nasal congestion runny nose itchy eye watery eye,0
+itchy eye nasal congestion sneezing,0
+fever fatigue dry cough,8
+fatigue sore throat chill body ache,8
+chest tightness shortness breath wheezing cough,3
+headache nausea dizziness,9
+dizziness vomiting headache,9
+sore throat fatigue runny nose,4
+frequent urination fatigue weight loss blurred vision,5
+vomiting dehydration nausea diarrhea abdominal pain,6
+stiffness reduced mobility joint pain swelling,2
+body ache fever dry cough headache,8
+blurred vision weight loss frequent urination increased thirst fatigue,5
+frequent urination weight loss blurred vision fatigue increased thirst,5
+nasal congestion sneezing watery eye,0
+diarrhea abdominal pain nausea dehydration,6
+fever headache chill sore throat dry cough body ache,8
+itchy eye nasal congestion runny nose sneezing,0
+dehydration abdominal pain nausea vomiting,6
+swelling reduced mobility joint pain,2
+diarrhea nausea abdominal pain,6
+watery eye runny nose nasal congestion,0
+fever headache cough,4
+sore throat runny nose cough sneezing fatigue headache,4
+swelling joint pain stiffness,2
+sneezing itchy eye watery eye,0
+fever sore throat chill,8
+fatigue weight loss blurred vision increased thirst,5
+shortness breath fatigue chest pain sweating,1
+fatigue chest pain dizziness,7
+increased thirst weight loss blurred vision fatigue,5
+fatigue fever sneezing cough headache runny nose,4
+light sensitivity headache nausea,9
+dizziness headache blurred vision fatigue,7
+headache nausea vomiting light sensitivity dizziness,9
+watery eye sneezing nasal congestion runny nose itchy eye,0
+vomiting abdominal pain dehydration diarrhea nausea,6
+watery eye sneezing itchy eye nasal congestion runny nose,0
+cough sneezing headache runny nose fever,4
+vomiting light sensitivity nausea headache,9
+dizziness headache vomiting nausea,9
+nausea abdominal pain diarrhea,6
+light sensitivity headache vomiting nausea,9
+runny nose watery eye itchy eye nasal congestion,0
+diarrhea nausea abdominal pain dehydration,6
+sneezing sore throat fever,4
+joint pain stiffness reduced mobility swelling,2
+chill body ache sore throat,8
+sneezing runny nose watery eye nasal congestion itchy eye,0
+frequent urination blurred vision weight loss,5
+chest pain dizziness headache,7
+light sensitivity vomiting headache dizziness nausea,9
+stiffness swelling reduced mobility joint pain,2
+fatigue shortness breath chest pain sweating,1
+headache fatigue blurred vision dizziness,7
+fever headache runny nose,4
+stiffness joint pain swelling,2
+cough chest tightness shortness breath,3
+fatigue sore throat dry cough fever,8
+diarrhea vomiting nausea abdominal pain dehydration,6
+runny nose sore throat headache sneezing fatigue fever,4
+blurred vision frequent urination fatigue increased thirst,5
+vomiting light sensitivity headache dizziness,9
+fever body ache sore throat,8
+abdominal pain dehydration nausea diarrhea,6
+headache chest pain dizziness,7
+runny nose itchy eye sneezing watery eye,0
+fatigue blurred vision chest pain headache dizziness,7
+vomiting abdominal pain nausea diarrhea,6
+nausea headache vomiting dizziness light sensitivity,9
+headache light sensitivity vomiting dizziness,9
+diarrhea vomiting dehydration,6
+headache sneezing fatigue,4
+shortness breath chest tightness cough wheezing,3
+dizziness nausea headache light sensitivity vomiting,9
+swelling stiffness reduced mobility,2
+abdominal pain diarrhea vomiting nausea dehydration,6
+sore throat dry cough headache fever,8
+sore throat headache fatigue,4
+watery eye sneezing runny nose itchy eye,0
+runny nose sore throat fatigue fever cough sneezing,4
+wheezing cough shortness breath,3
+sneezing fatigue fever headache sore throat,4
+body ache headache chill fever,8
+sneezing runny nose itchy eye watery eye nasal congestion,0
+fatigue chest pain shortness breath sweating,1
+fatigue headache dry cough body ache sore throat,8
+dehydration nausea diarrhea vomiting abdominal pain,6
+vomiting headache light sensitivity nausea dizziness,9
+sneezing fatigue fever headache sore throat cough,4
+shortness breath wheezing chest tightness cough,3
+chest tightness shortness breath wheezing,3
+chest pain shortness breath fatigue,1
+stiffness swelling reduced mobility,2
+vomiting light sensitivity headache,9
+body ache fatigue fever dry cough headache sore throat,8
+fever sore throat sneezing headache runny nose fatigue,4
+blurred vision fatigue increased thirst frequent urination weight loss,5
+frequent urination fatigue blurred vision,5
+chill fatigue fever headache dry cough body ache,8
+dizziness nausea headache vomiting light sensitivity,9
+dehydration vomiting abdominal pain nausea,6
+swelling reduced mobility stiffness,2
+dizziness nausea headache,9
+fatigue dizziness chest pain headache,7
+swelling stiffness joint pain reduced mobility,2
+dizziness blurred vision fatigue,7
+chest pain fatigue shortness breath,1
+fatigue fever headache runny nose,4
+fever headache cough fatigue,4
+blurred vision frequent urination weight loss fatigue increased thirst,5
+headache blurred vision fatigue dizziness chest pain,7
+fatigue headache dizziness chest pain blurred vision,7
+sneezing fever cough headache sore throat,4
+sneezing nasal congestion runny nose watery eye itchy eye,0
+frequent urination fatigue blurred vision weight loss increased thirst,5
+frequent urination fatigue blurred vision increased thirst,5
+stiffness joint pain reduced mobility,2
+blurred vision fatigue chest pain dizziness,7
+fatigue blurred vision frequent urination increased thirst weight loss,5
+wheezing chest tightness cough shortness breath,3
+headache nausea vomiting dizziness,9
+shortness breath fatigue sweating,1
+reduced mobility stiffness swelling,2
+nausea vomiting abdominal pain dehydration,6
+itchy eye nasal congestion watery eye,0
+body ache fever fatigue chill dry cough headache,8
+sore throat headache fatigue dry cough body ache,8
+fever sore throat chill dry cough headache,8
+sneezing runny nose nasal congestion watery eye itchy eye,0
+watery eye itchy eye nasal congestion sneezing runny nose,0
+body ache dry cough fatigue sore throat headache,8
+chest pain shortness breath sweating fatigue,1
+shortness breath sweating fatigue chest pain,1
+wheezing shortness breath cough chest tightness,3
+fatigue chest pain shortness breath,1
+chill sore throat fever fatigue,8
+light sensitivity dizziness headache vomiting nausea,9
+sneezing runny nose watery eye,0
+fatigue headache chest pain blurred vision dizziness,7
+headache chill fatigue sore throat,8
+vomiting headache light sensitivity dizziness nausea,9
+blurred vision chest pain fatigue headache,7
+dizziness fatigue headache,7
+sore throat dry cough fatigue,8
+swelling joint pain reduced mobility,2
+swelling reduced mobility joint pain stiffness,2
+sore throat fever dry cough fatigue chill headache,8
+cough runny nose sore throat fever,4
+shortness breath fatigue chest pain,1

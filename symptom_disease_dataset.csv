@@ -1,0 +1,1001 @@
+Symptoms,Disease
+"nasal congestion, itchy eyes, watery eyes, runny nose",Allergic Rhinitis
+"runny nose, headache, fatigue, cough",Common Cold
+"fatigue, sore throat, cough, fever",Common Cold
+"chest tightness, wheezing, shortness of breath, cough",Asthma
+"fever, chills, dry cough, fatigue, body ache, sore throat",Influenza
+"nausea, dizziness, headache",Migraine
+"blurred vision, weight loss, frequent urination, increased thirst, fatigue",Diabetes
+"chest pain, headache, fatigue, dizziness, blurred vision",Hypertension
+"chest tightness, cough, shortness of breath, wheezing",Asthma
+"chest pain, blurred vision, fatigue, headache, dizziness",Hypertension
+"runny nose, headache, sore throat",Common Cold
+"chest tightness, wheezing, cough",Asthma
+"cough, headache, sore throat",Common Cold
+"blurred vision, frequent urination, fatigue, weight loss",Diabetes
+"reduced mobility, stiffness, joint pain, swelling",Arthritis
+"frequent urination, blurred vision, weight loss, fatigue, increased thirst",Diabetes
+"swelling, reduced mobility, stiffness",Arthritis
+"chest pain, sweating, shortness of breath",Angina
+"headache, chest pain, blurred vision, fatigue",Hypertension
+"blurred vision, headache, chest pain, dizziness, fatigue",Hypertension
+"cough, chest tightness, wheezing, shortness of breath",Asthma
+"blurred vision, weight loss, increased thirst",Diabetes
+"dehydration, vomiting, abdominal pain, nausea",Gastroenteritis
+"light sensitivity, headache, vomiting, nausea, dizziness",Migraine
+"reduced mobility, swelling, stiffness, joint pain",Arthritis
+"headache, fatigue, blurred vision, chest pain, dizziness",Hypertension
+"shortness of breath, fatigue, chest pain",Angina
+"nausea, light sensitivity, dizziness",Migraine
+"sneezing, fatigue, headache, cough, runny nose",Common Cold
+"abdominal pain, vomiting, nausea",Gastroenteritis
+"runny nose, headache, fatigue, fever",Common Cold
+"fever, headache, sore throat, sneezing, cough",Common Cold
+"reduced mobility, stiffness, swelling, joint pain",Arthritis
+"itchy eyes, watery eyes, nasal congestion, sneezing, runny nose",Allergic Rhinitis
+"stiffness, swelling, reduced mobility, joint pain",Arthritis
+"nasal congestion, watery eyes, sneezing, itchy eyes",Allergic Rhinitis
+"nasal congestion, watery eyes, runny nose, itchy eyes, sneezing",Allergic Rhinitis
+"chills, fatigue, headache, fever, body ache",Influenza
+"blurred vision, increased thirst, frequent urination, weight loss",Diabetes
+"wheezing, shortness of breath, cough, chest tightness",Asthma
+"chest pain, fatigue, shortness of breath",Angina
+"reduced mobility, joint pain, swelling, stiffness",Arthritis
+"chest pain, headache, fatigue, blurred vision, dizziness",Hypertension
+"vomiting, diarrhea, dehydration",Gastroenteritis
+"blurred vision, chest pain, fatigue, dizziness, headache",Hypertension
+"fatigue, chest pain, sweating",Angina
+"dry cough, body ache, fever, headache",Influenza
+"cough, wheezing, chest tightness, shortness of breath",Asthma
+"headache, dizziness, chest pain, fatigue",Hypertension
+"headache, fever, sore throat, chills, fatigue, dry cough",Influenza
+"fatigue, shortness of breath, sweating, chest pain",Angina
+"sore throat, fatigue, runny nose",Common Cold
+"stiffness, joint pain, reduced mobility",Arthritis
+"joint pain, stiffness, reduced mobility, swelling",Arthritis
+"cough, sneezing, fatigue",Common Cold
+"light sensitivity, vomiting, nausea, headache, dizziness",Migraine
+"wheezing, chest tightness, shortness of breath, cough",Asthma
+"dizziness, headache, nausea",Migraine
+"weight loss, blurred vision, frequent urination, increased thirst",Diabetes
+"stiffness, reduced mobility, joint pain",Arthritis
+"vomiting, headache, dizziness",Migraine
+"wheezing, cough, chest tightness",Asthma
+"runny nose, nasal congestion, sneezing, itchy eyes",Allergic Rhinitis
+"weight loss, increased thirst, fatigue",Diabetes
+"sweating, fatigue, chest pain",Angina
+"nausea, light sensitivity, dizziness, vomiting, headache",Migraine
+"weight loss, blurred vision, increased thirst, frequent urination, fatigue",Diabetes
+"itchy eyes, nasal congestion, sneezing",Allergic Rhinitis
+"fever, headache, runny nose",Common Cold
+"stiffness, joint pain, reduced mobility, swelling",Arthritis
+"fatigue, blurred vision, chest pain, headache, dizziness",Hypertension
+"joint pain, stiffness, reduced mobility",Arthritis
+"shortness of breath, chest tightness, cough, wheezing",Asthma
+"shortness of breath, sweating, fatigue, chest pain",Angina
+"shortness of breath, wheezing, cough",Asthma
+"cough, sneezing, headache, runny nose, fever",Common Cold
+"light sensitivity, dizziness, vomiting",Migraine
+"vomiting, diarrhea, abdominal pain, dehydration",Gastroenteritis
+"increased thirst, weight loss, fatigue, frequent urination",Diabetes
+"headache, fatigue, chest pain, dizziness",Hypertension
+"runny nose, fever, cough",Common Cold
+"runny nose, fatigue, sneezing, fever, headache",Common Cold
+"stiffness, swelling, reduced mobility, joint pain",Arthritis
+"cough, chest tightness, shortness of breath, wheezing",Asthma
+"vomiting, nausea, dehydration",Gastroenteritis
+"swelling, joint pain, reduced mobility",Arthritis
+"fatigue, frequent urination, weight loss, blurred vision",Diabetes
+"fever, body ache, sore throat",Influenza
+"sweating, shortness of breath, fatigue, chest pain",Angina
+"runny nose, watery eyes, sneezing, nasal congestion",Allergic Rhinitis
+"stiffness, reduced mobility, joint pain, swelling",Arthritis
+"nasal congestion, itchy eyes, runny nose, sneezing, watery eyes",Allergic Rhinitis
+"chest pain, sweating, fatigue",Angina
+"shortness of breath, chest pain, sweating",Angina
+"shortness of breath, chest pain, fatigue",Angina
+"wheezing, chest tightness, shortness of breath, cough",Asthma
+"body ache, sore throat, fever",Influenza
+"chest tightness, cough, wheezing, shortness of breath",Asthma
+"reduced mobility, joint pain, stiffness",Arthritis
+"joint pain, swelling, reduced mobility",Arthritis
+"sneezing, cough, runny nose, headache, sore throat, fatigue",Common Cold
+"cough, wheezing, chest tightness, shortness of breath",Asthma
+"sore throat, fatigue, runny nose, headache, fever, sneezing",Common Cold
+"weight loss, fatigue, blurred vision, increased thirst",Diabetes
+"stiffness, swelling, reduced mobility",Arthritis
+"chest pain, blurred vision, dizziness, headache",Hypertension
+"diarrhea, abdominal pain, nausea, vomiting",Gastroenteritis
+"sore throat, headache, fever, dry cough, fatigue, chills",Influenza
+"chest pain, headache, fatigue, blurred vision, dizziness",Hypertension
+"chest pain, shortness of breath, fatigue",Angina
+"cough, wheezing, shortness of breath",Asthma
+"body ache, headache, fatigue, chills, dry cough",Influenza
+"joint pain, stiffness, swelling, reduced mobility",Arthritis
+"cough, shortness of breath, wheezing",Asthma
+"runny nose, cough, fever, sore throat",Common Cold
+"dizziness, nausea, vomiting, light sensitivity",Migraine
+"fatigue, headache, cough, runny nose",Common Cold
+"chest tightness, shortness of breath, cough",Asthma
+"fever, fatigue, body ache, dry cough",Influenza
+"runny nose, sneezing, itchy eyes, nasal congestion",Allergic Rhinitis
+"shortness of breath, wheezing, cough, chest tightness",Asthma
+"headache, light sensitivity, vomiting, nausea, dizziness",Migraine
+"swelling, stiffness, joint pain, reduced mobility",Arthritis
+"sore throat, runny nose, cough, sneezing, fatigue, headache",Common Cold
+"fatigue, blurred vision, frequent urination, increased thirst, weight loss",Diabetes
+"nausea, dizziness, headache, vomiting, light sensitivity",Migraine
+"vomiting, abdominal pain, diarrhea",Gastroenteritis
+"joint pain, reduced mobility, swelling, stiffness",Arthritis
+"watery eyes, sneezing, itchy eyes, nasal congestion, runny nose",Allergic Rhinitis
+"stiffness, swelling, reduced mobility, joint pain",Arthritis
+"chest tightness, wheezing, cough, shortness of breath",Asthma
+"shortness of breath, chest pain, sweating",Angina
+"joint pain, swelling, reduced mobility",Arthritis
+"vomiting, dehydration, diarrhea, abdominal pain, nausea",Gastroenteritis
+"light sensitivity, headache, nausea",Migraine
+"vomiting, nausea, dehydration, diarrhea",Gastroenteritis
+"dehydration, abdominal pain, nausea, vomiting",Gastroenteritis
+"wheezing, chest tightness, shortness of breath, cough",Asthma
+"joint pain, stiffness, reduced mobility, swelling",Arthritis
+"sore throat, headache, fever",Influenza
+"swelling, reduced mobility, joint pain",Arthritis
+"fatigue, sore throat, dry cough, fever",Influenza
+"headache, fever, fatigue",Common Cold
+"vomiting, nausea, dehydration",Gastroenteritis
+"chest pain, fatigue, shortness of breath, sweating",Angina
+"sore throat, runny nose, cough, sneezing, headache, fever",Common Cold
+"reduced mobility, swelling, stiffness",Arthritis
+"headache, nausea, dizziness",Migraine
+"itchy eyes, nasal congestion, runny nose, sneezing, watery eyes",Allergic Rhinitis
+"headache, fatigue, fever, runny nose, sneezing, cough",Common Cold
+"body ache, headache, sore throat, dry cough",Influenza
+"fatigue, shortness of breath, sweating",Angina
+"nausea, abdominal pain, vomiting",Gastroenteritis
+"itchy eyes, sneezing, watery eyes, runny nose",Allergic Rhinitis
+"chest tightness, wheezing, shortness of breath, cough",Asthma
+"headache, dizziness, chest pain, fatigue, blurred vision",Hypertension
+"itchy eyes, watery eyes, runny nose, sneezing, nasal congestion",Allergic Rhinitis
+"sweating, shortness of breath, fatigue",Angina
+"dizziness, chest pain, blurred vision, headache",Hypertension
+"vomiting, dizziness, nausea, headache",Migraine
+"light sensitivity, headache, vomiting, nausea",Migraine
+"chest pain, fatigue, shortness of breath, sweating",Angina
+"chest pain, shortness of breath, fatigue",Angina
+"headache, dizziness, chest pain, blurred vision",Hypertension
+"swelling, stiffness, joint pain",Arthritis
+"shortness of breath, sweating, chest pain",Angina
+"fatigue, frequent urination, blurred vision",Diabetes
+"diarrhea, abdominal pain, nausea, dehydration",Gastroenteritis
+"frequent urination, fatigue, blurred vision, weight loss, increased thirst",Diabetes
+"shortness of breath, sweating, fatigue",Angina
+"itchy eyes, watery eyes, runny nose, sneezing",Allergic Rhinitis
+"nausea, light sensitivity, vomiting, dizziness, headache",Migraine
+"reduced mobility, stiffness, joint pain, swelling",Arthritis
+"diarrhea, dehydration, vomiting, nausea, abdominal pain",Gastroenteritis
+"shortness of breath, wheezing, chest tightness",Asthma
+"nausea, headache, light sensitivity",Migraine
+"shortness of breath, cough, chest tightness, wheezing",Asthma
+"nausea, light sensitivity, headache",Migraine
+"runny nose, itchy eyes, sneezing",Allergic Rhinitis
+"headache, fatigue, sore throat, sneezing",Common Cold
+"frequent urination, blurred vision, weight loss, fatigue",Diabetes
+"swelling, stiffness, reduced mobility, joint pain",Arthritis
+"joint pain, stiffness, reduced mobility",Arthritis
+"vomiting, dizziness, light sensitivity",Migraine
+"wheezing, chest tightness, cough",Asthma
+"shortness of breath, cough, wheezing, chest tightness",Asthma
+"reduced mobility, joint pain, stiffness, swelling",Arthritis
+"stiffness, reduced mobility, joint pain",Arthritis
+"frequent urination, increased thirst, weight loss, fatigue",Diabetes
+"chest pain, sweating, shortness of breath, fatigue",Angina
+"nausea, diarrhea, vomiting, dehydration",Gastroenteritis
+"reduced mobility, swelling, stiffness, joint pain",Arthritis
+"fever, headache, cough, fatigue",Common Cold
+"fatigue, blurred vision, frequent urination, increased thirst",Diabetes
+"headache, chest pain, dizziness, fatigue, blurred vision",Hypertension
+"weight loss, increased thirst, frequent urination, fatigue",Diabetes
+"blurred vision, fatigue, chest pain, headache",Hypertension
+"sneezing, itchy eyes, watery eyes",Allergic Rhinitis
+"diarrhea, abdominal pain, vomiting, dehydration, nausea",Gastroenteritis
+"fatigue, increased thirst, frequent urination, blurred vision, weight loss",Diabetes
+"chest pain, fatigue, blurred vision",Hypertension
+"nasal congestion, sneezing, runny nose",Allergic Rhinitis
+"reduced mobility, swelling, joint pain",Arthritis
+"stiffness, reduced mobility, joint pain",Arthritis
+"sneezing, fever, cough, headache, sore throat",Common Cold
+"dizziness, chest pain, blurred vision",Hypertension
+"headache, dry cough, fever, fatigue, chills",Influenza
+"sneezing, cough, headache",Common Cold
+"cough, fatigue, sneezing, sore throat, fever, runny nose",Common Cold
+"shortness of breath, chest tightness, cough",Asthma
+"dizziness, nausea, light sensitivity, headache, vomiting",Migraine
+"watery eyes, runny nose, sneezing, nasal congestion, itchy eyes",Allergic Rhinitis
+"runny nose, sneezing, cough",Common Cold
+"abdominal pain, nausea, dehydration, vomiting, diarrhea",Gastroenteritis
+"swelling, joint pain, stiffness",Arthritis
+"itchy eyes, runny nose, sneezing, nasal congestion",Allergic Rhinitis
+"sore throat, chills, dry cough, fatigue, fever",Influenza
+"vomiting, abdominal pain, dehydration, diarrhea, nausea",Gastroenteritis
+"fever, fatigue, dry cough",Influenza
+"dehydration, diarrhea, nausea, abdominal pain, vomiting",Gastroenteritis
+"dry cough, fatigue, headache",Influenza
+"dry cough, fatigue, body ache, chills, sore throat",Influenza
+"headache, sore throat, runny nose",Common Cold
+"chest pain, dizziness, headache, blurred vision, fatigue",Hypertension
+"fatigue, sore throat, runny nose",Common Cold
+"sneezing, fatigue, fever, headache, sore throat",Common Cold
+"weight loss, blurred vision, frequent urination, fatigue, increased thirst",Diabetes
+"chest tightness, cough, shortness of breath, wheezing",Asthma
+"light sensitivity, vomiting, nausea",Migraine
+"blurred vision, weight loss, increased thirst, fatigue",Diabetes
+"headache, nausea, light sensitivity, dizziness",Migraine
+"light sensitivity, headache, vomiting, nausea",Migraine
+"fatigue, shortness of breath, sweating",Angina
+"shortness of breath, wheezing, chest tightness, cough",Asthma
+"nasal congestion, itchy eyes, sneezing, runny nose, watery eyes",Allergic Rhinitis
+"dehydration, diarrhea, vomiting, nausea, abdominal pain",Gastroenteritis
+"vomiting, diarrhea, nausea",Gastroenteritis
+"chest pain, shortness of breath, sweating, fatigue",Angina
+"nasal congestion, itchy eyes, watery eyes, runny nose",Allergic Rhinitis
+"nasal congestion, runny nose, watery eyes",Allergic Rhinitis
+"nausea, dizziness, headache",Migraine
+"fatigue, body ache, fever, chills",Influenza
+"light sensitivity, dizziness, headache, vomiting, nausea",Migraine
+"stiffness, reduced mobility, joint pain, swelling",Arthritis
+"fatigue, frequent urination, increased thirst",Diabetes
+"headache, nausea, vomiting, light sensitivity, dizziness",Migraine
+"dehydration, vomiting, abdominal pain",Gastroenteritis
+"headache, runny nose, sneezing, cough, fever",Common Cold
+"joint pain, swelling, stiffness, reduced mobility",Arthritis
+"swelling, stiffness, reduced mobility, joint pain",Arthritis
+"watery eyes, nasal congestion, itchy eyes",Allergic Rhinitis
+"blurred vision, dizziness, chest pain",Hypertension
+"vomiting, dizziness, headache",Migraine
+"vomiting, nausea, dehydration",Gastroenteritis
+"joint pain, swelling, stiffness",Arthritis
+"nausea, abdominal pain, vomiting, diarrhea, dehydration",Gastroenteritis
+"increased thirst, frequent urination, weight loss, blurred vision",Diabetes
+"diarrhea, vomiting, nausea, dehydration",Gastroenteritis
+"shortness of breath, wheezing, cough",Asthma
+"headache, nausea, vomiting, dizziness",Migraine
+"frequent urination, blurred vision, fatigue, increased thirst",Diabetes
+"shortness of breath, fatigue, sweating, chest pain",Angina
+"watery eyes, itchy eyes, nasal congestion, sneezing, runny nose",Allergic Rhinitis
+"chest tightness, shortness of breath, wheezing, cough",Asthma
+"dehydration, abdominal pain, nausea, diarrhea",Gastroenteritis
+"body ache, fever, chills",Influenza
+"sore throat, cough, fatigue, fever, headache",Common Cold
+"itchy eyes, sneezing, nasal congestion",Allergic Rhinitis
+"reduced mobility, joint pain, stiffness, swelling",Arthritis
+"fatigue, headache, dizziness, chest pain",Hypertension
+"cough, runny nose, sore throat, fever",Common Cold
+"shortness of breath, chest pain, fatigue, sweating",Angina
+"runny nose, sneezing, watery eyes",Allergic Rhinitis
+"cough, fatigue, headache",Common Cold
+"dry cough, sore throat, body ache, fatigue, chills",Influenza
+"fever, sore throat, chills, dry cough, headache",Influenza
+"headache, chest pain, dizziness, blurred vision, fatigue",Hypertension
+"vomiting, nausea, abdominal pain, diarrhea",Gastroenteritis
+"shortness of breath, fatigue, sweating",Angina
+"dizziness, nausea, headache",Migraine
+"weight loss, frequent urination, fatigue, increased thirst, blurred vision",Diabetes
+"sweating, chest pain, fatigue",Angina
+"shortness of breath, chest pain, sweating, fatigue",Angina
+"blurred vision, frequent urination, fatigue, weight loss",Diabetes
+"fatigue, sweating, shortness of breath, chest pain",Angina
+"swelling, joint pain, stiffness",Arthritis
+"fatigue, dizziness, blurred vision, headache, chest pain",Hypertension
+"headache, sore throat, sneezing",Common Cold
+"stiffness, swelling, reduced mobility",Arthritis
+"sneezing, nasal congestion, runny nose",Allergic Rhinitis
+"sweating, chest pain, fatigue, shortness of breath",Angina
+"chills, body ache, headache, fever, fatigue, dry cough",Influenza
+"blurred vision, chest pain, headache, fatigue, dizziness",Hypertension
+"weight loss, blurred vision, frequent urination",Diabetes
+"fever, sore throat, body ache",Influenza
+"nausea, vomiting, headache",Migraine
+"blurred vision, weight loss, fatigue, frequent urination",Diabetes
+"fatigue, headache, dizziness, chest pain, blurred vision",Hypertension
+"runny nose, watery eyes, sneezing, itchy eyes, nasal congestion",Allergic Rhinitis
+"chest pain, sweating, fatigue, shortness of breath",Angina
+"dizziness, chest pain, headache, fatigue, blurred vision",Hypertension
+"dehydration, abdominal pain, vomiting, nausea, diarrhea",Gastroenteritis
+"dizziness, light sensitivity, headache, vomiting, nausea",Migraine
+"runny nose, sore throat, headache",Common Cold
+"nausea, abdominal pain, diarrhea",Gastroenteritis
+"reduced mobility, joint pain, swelling, stiffness",Arthritis
+"fever, dry cough, body ache",Influenza
+"stiffness, joint pain, swelling",Arthritis
+"fatigue, frequent urination, blurred vision, weight loss",Diabetes
+"dry cough, sore throat, fever",Influenza
+"itchy eyes, nasal congestion, runny nose, sneezing",Allergic Rhinitis
+"shortness of breath, cough, wheezing",Asthma
+"chest tightness, shortness of breath, cough, wheezing",Asthma
+"blurred vision, increased thirst, frequent urination",Diabetes
+"runny nose, sore throat, headache, sneezing, fatigue, fever",Common Cold
+"headache, chest pain, fatigue, dizziness, blurred vision",Hypertension
+"stiffness, reduced mobility, joint pain",Arthritis
+"reduced mobility, stiffness, swelling",Arthritis
+"weight loss, frequent urination, fatigue",Diabetes
+"swelling, reduced mobility, joint pain",Arthritis
+"headache, nausea, vomiting, light sensitivity",Migraine
+"swelling, joint pain, reduced mobility",Arthritis
+"headache, fatigue, blurred vision, dizziness",Hypertension
+"fatigue, increased thirst, blurred vision, weight loss, frequent urination",Diabetes
+"shortness of breath, wheezing, chest tightness",Asthma
+"swelling, reduced mobility, joint pain",Arthritis
+"headache, light sensitivity, nausea",Migraine
+"blurred vision, frequent urination, fatigue, increased thirst, weight loss",Diabetes
+"chest tightness, wheezing, shortness of breath, cough",Asthma
+"chest tightness, cough, shortness of breath, wheezing",Asthma
+"shortness of breath, fatigue, sweating, chest pain",Angina
+"fatigue, sore throat, sneezing, runny nose, headache",Common Cold
+"itchy eyes, runny nose, watery eyes, sneezing, nasal congestion",Allergic Rhinitis
+"headache, runny nose, fever",Common Cold
+"dizziness, chest pain, fatigue, headache",Hypertension
+"dizziness, vomiting, headache, light sensitivity, nausea",Migraine
+"fever, sore throat, headache, fatigue",Common Cold
+"headache, light sensitivity, vomiting, dizziness, nausea",Migraine
+"chest pain, dizziness, headache",Hypertension
+"shortness of breath, wheezing, cough, chest tightness",Asthma
+"fatigue, fever, sneezing, cough, headache, runny nose",Common Cold
+"shortness of breath, sweating, fatigue",Angina
+"swelling, stiffness, joint pain, reduced mobility",Arthritis
+"chest pain, shortness of breath, fatigue",Angina
+"dizziness, vomiting, nausea",Migraine
+"swelling, stiffness, joint pain",Arthritis
+"fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+"joint pain, swelling, reduced mobility, stiffness",Arthritis
+"fatigue, runny nose, headache, fever, sneezing, cough",Common Cold
+"sore throat, dry cough, headache, fever",Influenza
+"cough, chest tightness, shortness of breath",Asthma
+"headache, sore throat, fever, fatigue, sneezing, cough",Common Cold
+"stiffness, swelling, reduced mobility, joint pain",Arthritis
+"vomiting, light sensitivity, headache, nausea",Migraine
+"light sensitivity, vomiting, dizziness, headache, nausea",Migraine
+"wheezing, chest tightness, cough",Asthma
+"fatigue, chest pain, shortness of breath, sweating",Angina
+"vomiting, abdominal pain, nausea, diarrhea, dehydration",Gastroenteritis
+"wheezing, shortness of breath, chest tightness",Asthma
+"light sensitivity, dizziness, vomiting, nausea, headache",Migraine
+"dizziness, headache, blurred vision",Hypertension
+"chest tightness, cough, wheezing, shortness of breath",Asthma
+"diarrhea, abdominal pain, nausea",Gastroenteritis
+"shortness of breath, cough, wheezing",Asthma
+"fever, sneezing, runny nose, fatigue, headache, cough",Common Cold
+"sneezing, nasal congestion, itchy eyes",Allergic Rhinitis
+"body ache, headache, dry cough, fatigue",Influenza
+"nasal congestion, itchy eyes, runny nose",Allergic Rhinitis
+"stiffness, swelling, reduced mobility, joint pain",Arthritis
+"nausea, headache, vomiting, light sensitivity, dizziness",Migraine
+"body ache, chills, fever, headache, sore throat, fatigue",Influenza
+"wheezing, cough, shortness of breath",Asthma
+"reduced mobility, joint pain, swelling",Arthritis
+"vomiting, diarrhea, dehydration",Gastroenteritis
+"reduced mobility, swelling, stiffness, joint pain",Arthritis
+"reduced mobility, joint pain, stiffness, swelling",Arthritis
+"headache, dizziness, chest pain, fatigue",Hypertension
+"sore throat, runny nose, cough",Common Cold
+"dizziness, headache, blurred vision, fatigue",Hypertension
+"fatigue, chest pain, shortness of breath, sweating",Angina
+"fatigue, sneezing, runny nose, fever, cough, headache",Common Cold
+"watery eyes, sneezing, runny nose, itchy eyes, nasal congestion",Allergic Rhinitis
+"chest pain, headache, dizziness, blurred vision, fatigue",Hypertension
+"fever, fatigue, sore throat, cough, headache",Common Cold
+"body ache, sore throat, headache",Influenza
+"body ache, headache, fatigue",Influenza
+"cough, shortness of breath, chest tightness",Asthma
+"stiffness, reduced mobility, joint pain, swelling",Arthritis
+"chest pain, sweating, shortness of breath, fatigue",Angina
+"reduced mobility, joint pain, stiffness, swelling",Arthritis
+"watery eyes, runny nose, nasal congestion",Allergic Rhinitis
+"chest tightness, shortness of breath, cough, wheezing",Asthma
+"headache, sneezing, fatigue",Common Cold
+"vomiting, abdominal pain, diarrhea",Gastroenteritis
+"body ache, fever, dry cough, headache",Influenza
+"fever, sore throat, sneezing, headache, runny nose, fatigue",Common Cold
+"shortness of breath, wheezing, chest tightness",Asthma
+"fatigue, sore throat, chills, body ache",Influenza
+"joint pain, reduced mobility, stiffness, swelling",Arthritis
+"dizziness, vomiting, headache, nausea, light sensitivity",Migraine
+"fever, cough, headache, sneezing, fatigue",Common Cold
+"stiffness, swelling, reduced mobility",Arthritis
+"sweating, shortness of breath, chest pain, fatigue",Angina
+"diarrhea, nausea, abdominal pain, vomiting, dehydration",Gastroenteritis
+"cough, shortness of breath, chest tightness",Asthma
+"swelling, joint pain, reduced mobility",Arthritis
+"body ache, headache, chills, fever",Influenza
+"dizziness, headache, chest pain",Hypertension
+"sore throat, fever, dry cough, fatigue, chills, headache",Influenza
+"fatigue, chest pain, headache",Hypertension
+"wheezing, chest tightness, cough, shortness of breath",Asthma
+"frequent urination, blurred vision, fatigue, increased thirst",Diabetes
+"headache, light sensitivity, dizziness",Migraine
+"shortness of breath, wheezing, chest tightness, cough",Asthma
+"fatigue, sore throat, fever, headache, dry cough, body ache",Influenza
+"headache, nausea, dizziness, vomiting",Migraine
+"dizziness, chest pain, blurred vision, fatigue",Hypertension
+"abdominal pain, vomiting, dehydration, nausea, diarrhea",Gastroenteritis
+"fever, cough, fatigue, sore throat, sneezing, runny nose",Common Cold
+"fatigue, blurred vision, weight loss, increased thirst",Diabetes
+"runny nose, itchy eyes, sneezing, watery eyes",Allergic Rhinitis
+"sore throat, sneezing, cough",Common Cold
+"weight loss, fatigue, blurred vision",Diabetes
+"dizziness, light sensitivity, headache",Migraine
+"blurred vision, fatigue, dizziness, chest pain",Hypertension
+"headache, chest pain, blurred vision",Hypertension
+"dizziness, headache, chest pain",Hypertension
+"swelling, stiffness, joint pain, reduced mobility",Arthritis
+"watery eyes, itchy eyes, nasal congestion, sneezing, runny nose",Allergic Rhinitis
+"nausea, diarrhea, vomiting",Gastroenteritis
+"sweating, shortness of breath, chest pain",Angina
+"wheezing, cough, chest tightness, shortness of breath",Asthma
+"fatigue, dizziness, chest pain, blurred vision, headache",Hypertension
+"nausea, headache, vomiting, dizziness, light sensitivity",Migraine
+"fatigue, sweating, chest pain",Angina
+"swelling, reduced mobility, stiffness, joint pain",Arthritis
+"frequent urination, fatigue, weight loss, increased thirst, blurred vision",Diabetes
+"dizziness, headache, vomiting",Migraine
+"blurred vision, fatigue, frequent urination, weight loss",Diabetes
+"runny nose, watery eyes, itchy eyes, nasal congestion",Allergic Rhinitis
+"nausea, dizziness, light sensitivity, headache, vomiting",Migraine
+"wheezing, shortness of breath, chest tightness",Asthma
+"sore throat, headache, fatigue, dry cough, body ache",Influenza
+"increased thirst, blurred vision, fatigue, weight loss, frequent urination",Diabetes
+"sore throat, headache, runny nose, fatigue, fever, cough",Common Cold
+"frequent urination, weight loss, increased thirst",Diabetes
+"fatigue, shortness of breath, chest pain, sweating",Angina
+"shortness of breath, wheezing, chest tightness, cough",Asthma
+"weight loss, fatigue, increased thirst, blurred vision, frequent urination",Diabetes
+"fatigue, fever, dry cough, chills, body ache, headache",Influenza
+"weight loss, fatigue, blurred vision",Diabetes
+"headache, light sensitivity, vomiting, dizziness",Migraine
+"chest tightness, shortness of breath, cough, wheezing",Asthma
+"vomiting, dehydration, diarrhea",Gastroenteritis
+"fatigue, increased thirst, weight loss",Diabetes
+"fatigue, blurred vision, dizziness, headache, chest pain",Hypertension
+"diarrhea, nausea, dehydration, abdominal pain, vomiting",Gastroenteritis
+"sneezing, headache, runny nose, fever, sore throat",Common Cold
+"runny nose, cough, fever, headache",Common Cold
+"dizziness, headache, light sensitivity, vomiting, nausea",Migraine
+"reduced mobility, stiffness, swelling, joint pain",Arthritis
+"cough, shortness of breath, chest tightness, wheezing",Asthma
+"diarrhea, vomiting, nausea, abdominal pain, dehydration",Gastroenteritis
+"vomiting, light sensitivity, headache, dizziness",Migraine
+"increased thirst, fatigue, weight loss, frequent urination, blurred vision",Diabetes
+"watery eyes, runny nose, itchy eyes",Allergic Rhinitis
+"nausea, vomiting, light sensitivity, headache",Migraine
+"joint pain, swelling, reduced mobility, stiffness",Arthritis
+"watery eyes, itchy eyes, nasal congestion, sneezing, runny nose",Allergic Rhinitis
+"headache, fatigue, blurred vision, dizziness",Hypertension
+"reduced mobility, joint pain, stiffness",Arthritis
+"joint pain, stiffness, swelling",Arthritis
+"shortness of breath, fatigue, chest pain, sweating",Angina
+"vomiting, dehydration, nausea, diarrhea",Gastroenteritis
+"stiffness, joint pain, swelling",Arthritis
+"cough, wheezing, shortness of breath, chest tightness",Asthma
+"headache, fatigue, body ache, chills, sore throat, fever",Influenza
+"watery eyes, sneezing, runny nose, itchy eyes",Allergic Rhinitis
+"chest pain, dizziness, fatigue",Hypertension
+"itchy eyes, sneezing, runny nose, nasal congestion",Allergic Rhinitis
+"joint pain, reduced mobility, swelling, stiffness",Arthritis
+"sore throat, fever, fatigue, headache, cough",Common Cold
+"dry cough, sore throat, body ache, headache, chills",Influenza
+"headache, dizziness, chest pain, fatigue",Hypertension
+"chest pain, dizziness, headache",Hypertension
+"nausea, abdominal pain, dehydration, diarrhea, vomiting",Gastroenteritis
+"joint pain, reduced mobility, stiffness",Arthritis
+"reduced mobility, swelling, joint pain, stiffness",Arthritis
+"shortness of breath, wheezing, chest tightness, cough",Asthma
+"runny nose, nasal congestion, itchy eyes, sneezing, watery eyes",Allergic Rhinitis
+"wheezing, chest tightness, cough",Asthma
+"fatigue, dizziness, headache, chest pain",Hypertension
+"wheezing, chest tightness, cough",Asthma
+"diarrhea, abdominal pain, vomiting, dehydration",Gastroenteritis
+"abdominal pain, vomiting, diarrhea, dehydration, nausea",Gastroenteritis
+"dizziness, chest pain, blurred vision, fatigue, headache",Hypertension
+"weight loss, fatigue, frequent urination, blurred vision, increased thirst",Diabetes
+"frequent urination, blurred vision, fatigue, weight loss, increased thirst",Diabetes
+"itchy eyes, nasal congestion, watery eyes",Allergic Rhinitis
+"sweating, shortness of breath, fatigue, chest pain",Angina
+"increased thirst, blurred vision, frequent urination, weight loss",Diabetes
+"nasal congestion, sneezing, itchy eyes",Allergic Rhinitis
+"nausea, dehydration, abdominal pain, diarrhea, vomiting",Gastroenteritis
+"dehydration, nausea, diarrhea, vomiting, abdominal pain",Gastroenteritis
+"sweating, chest pain, fatigue",Angina
+"fever, runny nose, sore throat, fatigue, cough, sneezing",Common Cold
+"chest tightness, cough, wheezing, shortness of breath",Asthma
+"sweating, chest pain, shortness of breath, fatigue",Angina
+"blurred vision, chest pain, fatigue, headache",Hypertension
+"diarrhea, abdominal pain, vomiting, nausea, dehydration",Gastroenteritis
+"blurred vision, increased thirst, fatigue, frequent urination, weight loss",Diabetes
+"body ache, fever, fatigue, chills, headache",Influenza
+"dizziness, blurred vision, chest pain, headache, fatigue",Hypertension
+"headache, dizziness, chest pain, blurred vision",Hypertension
+"reduced mobility, swelling, stiffness",Arthritis
+"swelling, stiffness, reduced mobility",Arthritis
+"joint pain, swelling, stiffness, reduced mobility",Arthritis
+"light sensitivity, nausea, headache, vomiting, dizziness",Migraine
+"nasal congestion, sneezing, runny nose, itchy eyes, watery eyes",Allergic Rhinitis
+"cough, wheezing, chest tightness",Asthma
+"dizziness, light sensitivity, nausea",Migraine
+"wheezing, cough, shortness of breath",Asthma
+"watery eyes, nasal congestion, runny nose, itchy eyes, sneezing",Allergic Rhinitis
+"shortness of breath, sweating, fatigue",Angina
+"fatigue, blurred vision, dizziness, chest pain, headache",Hypertension
+"fatigue, sore throat, headache, runny nose",Common Cold
+"reduced mobility, stiffness, joint pain, swelling",Arthritis
+"body ache, headache, fever",Influenza
+"blurred vision, fatigue, weight loss",Diabetes
+"reduced mobility, swelling, joint pain, stiffness",Arthritis
+"runny nose, fever, cough, headache",Common Cold
+"increased thirst, fatigue, frequent urination",Diabetes
+"headache, nausea, light sensitivity, vomiting, dizziness",Migraine
+"sneezing, sore throat, fever",Common Cold
+"fever, body ache, sore throat",Influenza
+"swelling, reduced mobility, stiffness",Arthritis
+"chest pain, blurred vision, dizziness, fatigue, headache",Hypertension
+"frequent urination, increased thirst, fatigue",Diabetes
+"headache, nausea, light sensitivity, vomiting, dizziness",Migraine
+"dehydration, abdominal pain, nausea",Gastroenteritis
+"chest pain, fatigue, blurred vision, headache, dizziness",Hypertension
+"body ache, sore throat, dry cough, fever",Influenza
+"swelling, reduced mobility, joint pain",Arthritis
+"diarrhea, abdominal pain, dehydration",Gastroenteritis
+"dizziness, blurred vision, fatigue",Hypertension
+"vomiting, abdominal pain, nausea, dehydration",Gastroenteritis
+"frequent urination, increased thirst, fatigue, weight loss, blurred vision",Diabetes
+"cough, wheezing, shortness of breath",Asthma
+"itchy eyes, runny nose, nasal congestion, sneezing, watery eyes",Allergic Rhinitis
+"sweating, fatigue, shortness of breath, chest pain",Angina
+"diarrhea, vomiting, dehydration",Gastroenteritis
+"sneezing, fatigue, fever, headache, sore throat, cough",Common Cold
+"sweating, shortness of breath, fatigue, chest pain",Angina
+"sweating, shortness of breath, chest pain",Angina
+"dehydration, diarrhea, vomiting, nausea",Gastroenteritis
+"wheezing, cough, shortness of breath",Asthma
+"headache, vomiting, nausea, dizziness",Migraine
+"joint pain, reduced mobility, stiffness, swelling",Arthritis
+"dizziness, vomiting, light sensitivity, headache, nausea",Migraine
+"dizziness, nausea, headache, vomiting, light sensitivity",Migraine
+"blurred vision, weight loss, fatigue",Diabetes
+"cough, fever, headache, fatigue",Common Cold
+"reduced mobility, stiffness, joint pain, swelling",Arthritis
+"fatigue, shortness of breath, sweating",Angina
+"blurred vision, fatigue, increased thirst, frequent urination, weight loss",Diabetes
+"shortness of breath, cough, wheezing, chest tightness",Asthma
+"runny nose, fever, sore throat",Common Cold
+"sneezing, runny nose, watery eyes",Allergic Rhinitis
+"joint pain, reduced mobility, stiffness, swelling",Arthritis
+"swelling, reduced mobility, joint pain, stiffness",Arthritis
+"cough, shortness of breath, chest tightness",Asthma
+"dehydration, abdominal pain, nausea",Gastroenteritis
+"stiffness, swelling, reduced mobility",Arthritis
+"shortness of breath, sweating, fatigue",Angina
+"sneezing, nasal congestion, runny nose, itchy eyes, watery eyes",Allergic Rhinitis
+"sneezing, sore throat, fatigue, cough, headache, fever",Common Cold
+"swelling, joint pain, stiffness, reduced mobility",Arthritis
+"fatigue, increased thirst, weight loss, frequent urination, blurred vision",Diabetes
+"stiffness, reduced mobility, swelling, joint pain",Arthritis
+"sore throat, headache, chills",Influenza
+"nausea, dehydration, vomiting, abdominal pain",Gastroenteritis
+"reduced mobility, swelling, joint pain, stiffness",Arthritis
+"fatigue, headache, fever, sore throat, sneezing",Common Cold
+"vomiting, headache, nausea",Migraine
+"reduced mobility, swelling, stiffness",Arthritis
+"fatigue, blurred vision, chest pain, headache, dizziness",Hypertension
+"runny nose, sneezing, cough, fatigue",Common Cold
+"abdominal pain, diarrhea, vomiting, nausea, dehydration",Gastroenteritis
+"dizziness, light sensitivity, nausea",Migraine
+"headache, sore throat, sneezing, runny nose, fever, cough",Common Cold
+"headache, sore throat, fever, cough, sneezing, runny nose",Common Cold
+"chills, body ache, dry cough, fatigue, sore throat, headache",Influenza
+"chest pain, fatigue, dizziness, headache",Hypertension
+"blurred vision, dizziness, fatigue",Hypertension
+"frequent urination, increased thirst, weight loss",Diabetes
+"swelling, stiffness, reduced mobility, joint pain",Arthritis
+"nasal congestion, sneezing, itchy eyes",Allergic Rhinitis
+"joint pain, stiffness, swelling",Arthritis
+"chills, dry cough, sore throat",Influenza
+"fever, dry cough, body ache, sore throat",Influenza
+"fatigue, chest pain, shortness of breath",Angina
+"sore throat, dry cough, chills, headache, fatigue",Influenza
+"sweating, chest pain, shortness of breath",Angina
+"vomiting, diarrhea, abdominal pain, nausea, dehydration",Gastroenteritis
+"runny nose, nasal congestion, sneezing, itchy eyes, watery eyes",Allergic Rhinitis
+"body ache, fever, fatigue, chills, dry cough, sore throat",Influenza
+"headache, dizziness, fatigue, chest pain",Hypertension
+"fatigue, sweating, chest pain, shortness of breath",Angina
+"runny nose, sore throat, fatigue, fever, cough, sneezing",Common Cold
+"sweating, chest pain, shortness of breath",Angina
+"sneezing, itchy eyes, runny nose, nasal congestion",Allergic Rhinitis
+"chills, fever, headache, body ache, sore throat",Influenza
+"light sensitivity, vomiting, headache, nausea, dizziness",Migraine
+"headache, dizziness, chest pain, blurred vision",Hypertension
+"frequent urination, increased thirst, weight loss, fatigue",Diabetes
+"headache, nausea, dizziness, light sensitivity",Migraine
+"shortness of breath, chest tightness, wheezing, cough",Asthma
+"sneezing, nasal congestion, itchy eyes",Allergic Rhinitis
+"fever, sneezing, runny nose, cough, sore throat, fatigue",Common Cold
+"blurred vision, dizziness, chest pain",Hypertension
+"dry cough, headache, fever",Influenza
+"vomiting, nausea, abdominal pain, dehydration",Gastroenteritis
+"dehydration, abdominal pain, nausea, diarrhea, vomiting",Gastroenteritis
+"blurred vision, dizziness, chest pain, headache",Hypertension
+"fatigue, sweating, shortness of breath, chest pain",Angina
+"fatigue, dizziness, chest pain, headache",Hypertension
+"joint pain, stiffness, reduced mobility",Arthritis
+"chest pain, shortness of breath, fatigue, sweating",Angina
+"cough, sore throat, fever, headache",Common Cold
+"chest tightness, wheezing, cough",Asthma
+"sneezing, runny nose, nasal congestion, watery eyes, itchy eyes",Allergic Rhinitis
+"chest pain, sweating, shortness of breath",Angina
+"vomiting, light sensitivity, nausea, headache",Migraine
+"stiffness, reduced mobility, joint pain",Arthritis
+"chest tightness, cough, shortness of breath, wheezing",Asthma
+"shortness of breath, chest pain, fatigue",Angina
+"chest tightness, cough, wheezing, shortness of breath",Asthma
+"fever, chills, dry cough",Influenza
+"vomiting, abdominal pain, nausea",Gastroenteritis
+"chills, fatigue, fever, headache, body ache",Influenza
+"stiffness, swelling, joint pain",Arthritis
+"joint pain, reduced mobility, swelling, stiffness",Arthritis
+"cough, wheezing, chest tightness",Asthma
+"cough, runny nose, headache, sneezing, sore throat",Common Cold
+"fatigue, headache, dry cough, body ache, sore throat",Influenza
+"sore throat, runny nose, fever, headache, fatigue, cough",Common Cold
+"body ache, dry cough, fatigue, fever, sore throat",Influenza
+"fever, chills, dry cough, fatigue, sore throat",Influenza
+"fatigue, headache, chest pain, blurred vision, dizziness",Hypertension
+"swelling, reduced mobility, joint pain, stiffness",Arthritis
+"sneezing, itchy eyes, nasal congestion, runny nose",Allergic Rhinitis
+"chest tightness, shortness of breath, wheezing",Asthma
+"headache, fever, body ache, sore throat, chills",Influenza
+"joint pain, swelling, stiffness",Arthritis
+"itchy eyes, runny nose, nasal congestion, watery eyes, sneezing",Allergic Rhinitis
+"chest pain, fatigue, blurred vision, headache",Hypertension
+"vomiting, light sensitivity, headache",Migraine
+"vomiting, dehydration, nausea",Gastroenteritis
+"swelling, reduced mobility, joint pain",Arthritis
+"cough, shortness of breath, chest tightness",Asthma
+"shortness of breath, chest tightness, cough, wheezing",Asthma
+"wheezing, chest tightness, cough, shortness of breath",Asthma
+"fatigue, runny nose, sore throat, headache",Common Cold
+"runny nose, nasal congestion, watery eyes, sneezing",Allergic Rhinitis
+"fever, sore throat, chills",Influenza
+"reduced mobility, joint pain, swelling, stiffness",Arthritis
+"shortness of breath, sweating, chest pain",Angina
+"frequent urination, weight loss, blurred vision",Diabetes
+"dry cough, sore throat, headache, fever, chills, body ache",Influenza
+"dizziness, nausea, headache, light sensitivity",Migraine
+"wheezing, cough, chest tightness",Asthma
+"nausea, vomiting, abdominal pain",Gastroenteritis
+"nausea, headache, vomiting",Migraine
+"headache, fatigue, blurred vision",Hypertension
+"frequent urination, blurred vision, weight loss, fatigue",Diabetes
+"dry cough, headache, body ache, chills",Influenza
+"watery eyes, sneezing, itchy eyes, runny nose, nasal congestion",Allergic Rhinitis
+"light sensitivity, dizziness, nausea, headache, vomiting",Migraine
+"body ache, dry cough, fatigue, sore throat, headache",Influenza
+"sore throat, headache, fatigue",Common Cold
+"diarrhea, nausea, dehydration",Gastroenteritis
+"swelling, reduced mobility, joint pain",Arthritis
+"cough, shortness of breath, chest tightness",Asthma
+"abdominal pain, vomiting, dehydration, nausea, diarrhea",Gastroenteritis
+"fatigue, fever, headache, runny nose",Common Cold
+"chest pain, sweating, fatigue, shortness of breath",Angina
+"cough, sore throat, sneezing, fever, runny nose, headache",Common Cold
+"fatigue, dizziness, chest pain, headache, blurred vision",Hypertension
+"headache, body ache, dry cough, fatigue, fever, chills",Influenza
+"abdominal pain, diarrhea, dehydration",Gastroenteritis
+"nasal congestion, watery eyes, runny nose, itchy eyes, sneezing",Allergic Rhinitis
+"fever, runny nose, cough, fatigue",Common Cold
+"dizziness, vomiting, headache",Migraine
+"watery eyes, itchy eyes, runny nose, nasal congestion",Allergic Rhinitis
+"weight loss, frequent urination, fatigue, blurred vision, increased thirst",Diabetes
+"fatigue, weight loss, increased thirst",Diabetes
+"nausea, dehydration, vomiting, diarrhea",Gastroenteritis
+"nausea, diarrhea, abdominal pain",Gastroenteritis
+"weight loss, increased thirst, blurred vision, frequent urination",Diabetes
+"chest pain, blurred vision, fatigue, dizziness",Hypertension
+"sore throat, headache, chills, fatigue",Influenza
+"nasal congestion, sneezing, watery eyes",Allergic Rhinitis
+"swelling, stiffness, joint pain, reduced mobility",Arthritis
+"joint pain, stiffness, swelling",Arthritis
+"dehydration, abdominal pain, nausea, diarrhea",Gastroenteritis
+"headache, chills, fatigue, fever, body ache, dry cough",Influenza
+"chest pain, shortness of breath, fatigue",Angina
+"swelling, stiffness, reduced mobility, joint pain",Arthritis
+"sneezing, runny nose, watery eyes, nasal congestion, itchy eyes",Allergic Rhinitis
+"sneezing, sore throat, fever, headache, runny nose, fatigue",Common Cold
+"chest pain, shortness of breath, sweating, fatigue",Angina
+"sneezing, sore throat, fever, headache",Common Cold
+"shortness of breath, wheezing, chest tightness",Asthma
+"fatigue, runny nose, sore throat, fever, headache, sneezing",Common Cold
+"dry cough, sore throat, fever",Influenza
+"dizziness, headache, light sensitivity, nausea, vomiting",Migraine
+"watery eyes, sneezing, nasal congestion, itchy eyes",Allergic Rhinitis
+"runny nose, sneezing, watery eyes",Allergic Rhinitis
+"weight loss, fatigue, increased thirst, frequent urination, blurred vision",Diabetes
+"runny nose, itchy eyes, watery eyes, nasal congestion, sneezing",Allergic Rhinitis
+"increased thirst, weight loss, blurred vision, fatigue",Diabetes
+"fatigue, sweating, chest pain",Angina
+"sore throat, body ache, dry cough, chills, headache, fever",Influenza
+"stiffness, joint pain, swelling, reduced mobility",Arthritis
+"shortness of breath, cough, wheezing",Asthma
+"light sensitivity, vomiting, headache, dizziness, nausea",Migraine
+"fatigue, body ache, dry cough, sore throat",Influenza
+"abdominal pain, nausea, dehydration, diarrhea",Gastroenteritis
+"abdominal pain, dehydration, nausea, diarrhea",Gastroenteritis
+"fatigue, weight loss, blurred vision, increased thirst",Diabetes
+"wheezing, chest tightness, shortness of breath, cough",Asthma
+"watery eyes, nasal congestion, itchy eyes",Allergic Rhinitis
+"abdominal pain, dehydration, vomiting, diarrhea",Gastroenteritis
+"watery eyes, sneezing, nasal congestion",Allergic Rhinitis
+"fever, chills, body ache, headache, sore throat",Influenza
+"vomiting, headache, light sensitivity, nausea, dizziness",Migraine
+"cough, chest tightness, shortness of breath, wheezing",Asthma
+"frequent urination, weight loss, fatigue, increased thirst, blurred vision",Diabetes
+"shortness of breath, cough, wheezing",Asthma
+"fatigue, sweating, chest pain",Angina
+"headache, blurred vision, fatigue, chest pain, dizziness",Hypertension
+"joint pain, reduced mobility, stiffness",Arthritis
+"sweating, chest pain, fatigue, shortness of breath",Angina
+"sneezing, fever, cough, runny nose, sore throat, headache",Common Cold
+"fever, sore throat, chills, body ache, headache, dry cough",Influenza
+"sweating, fatigue, shortness of breath, chest pain",Angina
+"frequent urination, increased thirst, fatigue, weight loss, blurred vision",Diabetes
+"blurred vision, chest pain, dizziness, fatigue",Hypertension
+"blurred vision, frequent urination, fatigue, increased thirst, weight loss",Diabetes
+"diarrhea, vomiting, abdominal pain",Gastroenteritis
+"vomiting, light sensitivity, nausea, headache, dizziness",Migraine
+"fatigue, chest pain, shortness of breath",Angina
+"dehydration, diarrhea, vomiting, nausea",Gastroenteritis
+"blurred vision, frequent urination, fatigue, increased thirst",Diabetes
+"frequent urination, blurred vision, weight loss",Diabetes
+"cough, headache, sore throat",Common Cold
+"shortness of breath, sweating, chest pain, fatigue",Angina
+"chest pain, dizziness, blurred vision, fatigue, headache",Hypertension
+"sneezing, itchy eyes, runny nose, watery eyes, nasal congestion",Allergic Rhinitis
+"wheezing, shortness of breath, cough, chest tightness",Asthma
+"wheezing, chest tightness, cough, shortness of breath",Asthma
+"nasal congestion, watery eyes, itchy eyes, sneezing",Allergic Rhinitis
+"dizziness, blurred vision, chest pain",Hypertension
+"fatigue, increased thirst, frequent urination",Diabetes
+"frequent urination, weight loss, blurred vision, fatigue, increased thirst",Diabetes
+"cough, shortness of breath, chest tightness",Asthma
+"dehydration, vomiting, diarrhea, nausea, abdominal pain",Gastroenteritis
+"headache, light sensitivity, vomiting, dizziness, nausea",Migraine
+"itchy eyes, watery eyes, nasal congestion",Allergic Rhinitis
+"light sensitivity, nausea, vomiting",Migraine
+"chest tightness, shortness of breath, cough",Asthma
+"headache, chills, fatigue, sore throat",Influenza
+"headache, chest pain, blurred vision, fatigue",Hypertension
+"light sensitivity, vomiting, headache, nausea, dizziness",Migraine
+"fatigue, dry cough, chills, fever, headache, sore throat",Influenza
+"frequent urination, blurred vision, weight loss, fatigue",Diabetes
+"headache, dizziness, chest pain, blurred vision",Hypertension
+"shortness of breath, chest tightness, wheezing",Asthma
+"fever, fatigue, cough, headache, runny nose",Common Cold
+"blurred vision, chest pain, dizziness, fatigue, headache",Hypertension
+"body ache, fever, fatigue, chills, dry cough, headache",Influenza
+"diarrhea, abdominal pain, vomiting, dehydration",Gastroenteritis
+"sweating, chest pain, fatigue, shortness of breath",Angina
+"fatigue, sweating, shortness of breath",Angina
+"chest tightness, wheezing, cough",Asthma
+"fever, dry cough, fatigue, sore throat",Influenza
+"dehydration, vomiting, abdominal pain",Gastroenteritis
+"headache, nausea, vomiting, dizziness, light sensitivity",Migraine
+"increased thirst, fatigue, blurred vision, weight loss",Diabetes
+"blurred vision, fatigue, chest pain, dizziness",Hypertension
+"wheezing, chest tightness, shortness of breath, cough",Asthma
+"fatigue, weight loss, blurred vision, increased thirst, frequent urination",Diabetes
+"swelling, reduced mobility, stiffness",Arthritis
+"shortness of breath, chest pain, sweating, fatigue",Angina
+"vomiting, diarrhea, dehydration, abdominal pain",Gastroenteritis
+"fever, body ache, headache, dry cough",Influenza
+"frequent urination, fatigue, blurred vision",Diabetes
+"chills, fever, sore throat, dry cough, headache",Influenza
+"sore throat, headache, fatigue",Influenza
+"frequent urination, blurred vision, increased thirst",Diabetes
+"runny nose, nasal congestion, watery eyes",Allergic Rhinitis
+"reduced mobility, joint pain, stiffness",Arthritis
+"headache, fatigue, runny nose, fever, sore throat",Common Cold
+"fever, sore throat, sneezing, fatigue",Common Cold
+"blurred vision, weight loss, increased thirst",Diabetes
+"headache, blurred vision, chest pain, dizziness",Hypertension
+"diarrhea, nausea, abdominal pain, vomiting, dehydration",Gastroenteritis
+"nausea, light sensitivity, headache",Migraine
+"dizziness, nausea, headache, vomiting",Migraine
+"dizziness, fatigue, blurred vision, headache",Hypertension
+"fever, headache, sneezing",Common Cold
+"sneezing, headache, runny nose, cough",Common Cold
+"runny nose, sneezing, nasal congestion",Allergic Rhinitis
+"chills, body ache, sore throat",Influenza
+"dehydration, nausea, diarrhea, vomiting, abdominal pain",Gastroenteritis
+"headache, nausea, dizziness, vomiting, light sensitivity",Migraine
+"increased thirst, frequent urination, fatigue, blurred vision",Diabetes
+"cough, runny nose, headache, sore throat, fever, fatigue",Common Cold
+"stiffness, swelling, reduced mobility",Arthritis
+"chills, dry cough, body ache, fatigue",Influenza
+"abdominal pain, nausea, vomiting",Gastroenteritis
+"dehydration, nausea, vomiting",Gastroenteritis
+"vomiting, headache, light sensitivity, dizziness, nausea",Migraine
+"sweating, shortness of breath, fatigue, chest pain",Angina
+"headache, chest pain, dizziness",Hypertension
+"sore throat, cough, fatigue",Common Cold
+"nausea, dehydration, abdominal pain, vomiting, diarrhea",Gastroenteritis
+"blurred vision, frequent urination, increased thirst, fatigue, weight loss",Diabetes
+"headache, chest pain, blurred vision",Hypertension
+"chest tightness, cough, wheezing, shortness of breath",Asthma
+"dizziness, chest pain, headache",Hypertension
+"sneezing, nasal congestion, runny nose, watery eyes, itchy eyes",Allergic Rhinitis
+"sneezing, nasal congestion, itchy eyes",Allergic Rhinitis
+"nausea, headache, vomiting",Migraine
+"increased thirst, frequent urination, blurred vision",Diabetes
+"fatigue, sweating, shortness of breath",Angina
+"vomiting, abdominal pain, nausea, diarrhea",Gastroenteritis
+"cough, headache, runny nose, sneezing",Common Cold
+"cough, wheezing, shortness of breath",Asthma
+"frequent urination, fatigue, blurred vision, increased thirst",Diabetes
+"frequent urination, fatigue, blurred vision",Diabetes
+"abdominal pain, nausea, vomiting, dehydration, diarrhea",Gastroenteritis
+"frequent urination, fatigue, weight loss, increased thirst",Diabetes
+"shortness of breath, sweating, chest pain, fatigue",Angina
+"headache, dizziness, fatigue",Hypertension
+"watery eyes, sneezing, nasal congestion, itchy eyes, runny nose",Allergic Rhinitis
+"reduced mobility, joint pain, swelling, stiffness",Arthritis
+"shortness of breath, wheezing, chest tightness",Asthma
+"sweating, shortness of breath, fatigue",Angina
+"reduced mobility, joint pain, stiffness",Arthritis
+"fatigue, fever, dry cough",Influenza
+"increased thirst, weight loss, frequent urination",Diabetes
+"nausea, vomiting, abdominal pain, dehydration",Gastroenteritis
+"cough, chest tightness, wheezing",Asthma
+"chest pain, sweating, fatigue",Angina
+"chest pain, fatigue, sweating, shortness of breath",Angina
+"dehydration, diarrhea, vomiting, abdominal pain, nausea",Gastroenteritis
+"joint pain, stiffness, swelling, reduced mobility",Arthritis
+"chest tightness, cough, wheezing",Asthma
+"nausea, vomiting, light sensitivity, headache",Migraine
+"fever, dry cough, headache, fatigue, sore throat",Influenza
+"reduced mobility, joint pain, swelling, stiffness",Arthritis
+"sweating, shortness of breath, chest pain",Angina
+"dizziness, headache, vomiting, nausea",Migraine
+"fatigue, chest pain, dizziness",Hypertension
+"abdominal pain, vomiting, nausea, dehydration",Gastroenteritis
+"fatigue, headache, runny nose, sore throat, fever, cough",Common Cold
+"reduced mobility, swelling, stiffness, joint pain",Arthritis
+"sore throat, sneezing, cough, fatigue",Common Cold
+"dizziness, nausea, headache, light sensitivity",Migraine
+"reduced mobility, stiffness, joint pain, swelling",Arthritis
+"headache, nausea, dizziness",Migraine
+"nausea, light sensitivity, headache, dizziness",Migraine
+"chills, body ache, fatigue, fever",Influenza
+"cough, wheezing, shortness of breath, chest tightness",Asthma
+"cough, wheezing, chest tightness, shortness of breath",Asthma
+"vomiting, nausea, abdominal pain",Gastroenteritis
+"chest tightness, wheezing, cough, shortness of breath",Asthma
+"shortness of breath, chest tightness, wheezing",Asthma
+"nausea, vomiting, dehydration",Gastroenteritis
+"cough, wheezing, chest tightness",Asthma
+"fatigue, shortness of breath, sweating, chest pain",Angina
+"sore throat, dry cough, fatigue",Influenza
+"fatigue, sore throat, sneezing, fever, headache",Common Cold
+"chest pain, shortness of breath, fatigue, sweating",Angina
+"vomiting, headache, light sensitivity, nausea",Migraine
+"itchy eyes, watery eyes, nasal congestion",Allergic Rhinitis
+"fever, sore throat, headache, chills, dry cough",Influenza
+"stiffness, reduced mobility, swelling, joint pain",Arthritis
+"sneezing, itchy eyes, nasal congestion, watery eyes",Allergic Rhinitis
+"headache, fever, fatigue, runny nose",Common Cold
+"dehydration, nausea, diarrhea, vomiting",Gastroenteritis
+"sweating, chest pain, shortness of breath, fatigue",Angina
+"chest pain, shortness of breath, fatigue",Angina
+"diarrhea, nausea, abdominal pain, dehydration",Gastroenteritis
+"diarrhea, nausea, abdominal pain",Gastroenteritis
+"weight loss, blurred vision, increased thirst, fatigue, frequent urination",Diabetes
+"weight loss, fatigue, frequent urination, increased thirst",Diabetes
+"shortness of breath, chest pain, fatigue, sweating",Angina
+"cough, headache, fatigue, runny nose, fever, sneezing",Common Cold
+"reduced mobility, swelling, stiffness",Arthritis
+"headache, dizziness, chest pain, fatigue, blurred vision",Hypertension
+"swelling, joint pain, stiffness, reduced mobility",Arthritis
+"fatigue, headache, fever, dry cough, body ache",Influenza
+"sore throat, cough, fatigue, headache",Common Cold
+"chest pain, blurred vision, dizziness",Hypertension
+"nausea, dehydration, vomiting",Gastroenteritis
+"chills, dry cough, sore throat, headache, body ache",Influenza
+"swelling, stiffness, joint pain, reduced mobility",Arthritis
+"weight loss, fatigue, blurred vision",Diabetes
+"chest tightness, shortness of breath, wheezing, cough",Asthma
+"headache, blurred vision, fatigue, dizziness, chest pain",Hypertension
+"nausea, headache, dizziness",Migraine
+"cough, wheezing, shortness of breath",Asthma
+"headache, fever, sneezing",Common Cold
+"sneezing, itchy eyes, runny nose",Allergic Rhinitis
+"reduced mobility, stiffness, swelling, joint pain",Arthritis
+"shortness of breath, wheezing, cough",Asthma
+"abdominal pain, vomiting, diarrhea",Gastroenteritis
+"chest pain, sweating, fatigue",Angina
+"diarrhea, dehydration, abdominal pain, nausea",Gastroenteritis
+"blurred vision, fatigue, dizziness, chest pain",Hypertension
+"vomiting, dehydration, nausea, diarrhea, abdominal pain",Gastroenteritis
+"dry cough, chills, sore throat, fatigue",Influenza
+"blurred vision, frequent urination, weight loss, fatigue, increased thirst",Diabetes
+"nausea, headache, light sensitivity, dizziness",Migraine
+"frequent urination, weight loss, increased thirst",Diabetes
+"frequent urination, blurred vision, weight loss, increased thirst",Diabetes
+"shortness of breath, wheezing, chest tightness",Asthma
+"nausea, vomiting, diarrhea",Gastroenteritis
+"shortness of breath, fatigue, sweating",Angina
+"fatigue, weight loss, increased thirst",Diabetes
+"headache, chest pain, dizziness, blurred vision, fatigue",Hypertension
+"chest tightness, shortness of breath, cough, wheezing",Asthma
+"fever, fatigue, headache",Common Cold
+"dizziness, fatigue, headache, chest pain, blurred vision",Hypertension
+"weight loss, fatigue, blurred vision",Diabetes
+"body ache, fatigue, fever, dry cough, headache, sore throat",Influenza
+"chest tightness, cough, wheezing",Asthma
+"dizziness, blurred vision, headache, fatigue",Hypertension
+"headache, fatigue, blurred vision",Hypertension
+"sneezing, nasal congestion, runny nose, watery eyes, itchy eyes",Allergic Rhinitis
+"increased thirst, frequent urination, weight loss, blurred vision",Diabetes
+"reduced mobility, swelling, joint pain, stiffness",Arthritis
+"chest pain, headache, blurred vision, fatigue",Hypertension
+"cough, wheezing, chest tightness, shortness of breath",Asthma
+"frequent urination, blurred vision, increased thirst, weight loss, fatigue",Diabetes
+"shortness of breath, wheezing, cough, chest tightness",Asthma
+"sneezing, runny nose, itchy eyes, watery eyes, nasal congestion",Allergic Rhinitis
+"fatigue, sweating, chest pain, shortness of breath",Angina
+"frequent urination, fatigue, weight loss, blurred vision",Diabetes
+"dizziness, fatigue, headache",Hypertension
+"chest tightness, cough, wheezing",Asthma
+"chills, sore throat, fever, fatigue",Influenza
+"fever, headache, chills, sore throat, dry cough, body ache",Influenza
+"fatigue, dizziness, chest pain, blurred vision",Hypertension
+"fatigue, frequent urination, weight loss, blurred vision",Diabetes
+"chest pain, fatigue, shortness of breath",Angina
+"dizziness, light sensitivity, nausea, vomiting",Migraine
+"chills, fatigue, fever, headache, dry cough, body ache",Influenza
+"sneezing, cough, headache, runny nose",Common Cold
+"headache, vomiting, light sensitivity, dizziness",Migraine
+"weight loss, increased thirst, blurred vision, frequent urination, fatigue",Diabetes
+"fever, headache, cough",Common Cold
+"fever, sore throat, headache, dry cough",Influenza
+"light sensitivity, nausea, headache, dizziness",Migraine
+"runny nose, headache, fatigue, fever, sore throat",Common Cold
+"vomiting, dehydration, nausea, diarrhea, abdominal pain",Gastroenteritis
+"chest pain, fatigue, shortness of breath, sweating",Angina
+"wheezing, cough, chest tightness",Asthma
+"chills, fatigue, fever, body ache, sore throat, headache",Influenza
+"dizziness, blurred vision, fatigue, headache",Hypertension
+"dizziness, nausea, headache, light sensitivity, vomiting",Migraine
+"joint pain, swelling, stiffness",Arthritis
+"increased thirst, weight loss, fatigue, blurred vision",Diabetes
+"headache, dizziness, light sensitivity",Migraine
+"nausea, dehydration, vomiting, diarrhea",Gastroenteritis
+"shortness of breath, sweating, chest pain",Angina
+"wheezing, chest tightness, shortness of breath",Asthma
+"fatigue, blurred vision, increased thirst, weight loss, frequent urination",Diabetes
+"dehydration, vomiting, abdominal pain",Gastroenteritis
+"blurred vision, frequent urination, fatigue, increased thirst, weight loss",Diabetes
+"joint pain, swelling, stiffness, reduced mobility",Arthritis
+"swelling, stiffness, reduced mobility",Arthritis
+"blurred vision, fatigue, chest pain, dizziness, headache",Hypertension
+"fever, headache, runny nose",Common Cold
+"cough, chest tightness, shortness of breath, wheezing",Asthma
+"vomiting, nausea, headache, dizziness",Migraine
+"fatigue, chest pain, sweating, shortness of breath",Angina
+"watery eyes, sneezing, nasal congestion, runny nose, itchy eyes",Allergic Rhinitis
+"runny nose, watery eyes, sneezing, itchy eyes",Allergic Rhinitis
+"sweating, fatigue, chest pain",Angina
+"fatigue, dizziness, blurred vision",Hypertension
+"reduced mobility, joint pain, swelling, stiffness",Arthritis
+"weight loss, blurred vision, fatigue",Diabetes
+"wheezing, chest tightness, cough, shortness of breath",Asthma
+"sneezing, fatigue, cough",Common Cold
+"wheezing, chest tightness, shortness of breath",Asthma
+"headache, fatigue, chest pain",Hypertension
+"light sensitivity, vomiting, nausea",Migraine

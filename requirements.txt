@@ -1,0 +1,25 @@
+# Core Python Libraries
+numpy
+pandas 
+seaborn
+matplotlib
+scikit-learn
+nltk
+spacy
+
+# Deep Learning
+tensorflow
+keras
+
+# Web/Deployment
+streamlit
+
+# Database
+sqlalchemy
+
+# Utility
+tqdm
+
+streamlit
+joblib
+sqlite3-binary
